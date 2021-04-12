@@ -1,0 +1,18 @@
+### Needed key ###
+package="jdupes"
+version="1.19.2"
+description="A powerful duplicate finder and enhanced fork of 'fdupes'."
+maintainer="Jody Bruchon"
+arch="rtd1296"
+
+### Optional key ###
+displayname="jdupes package"
+firmware="6.1"
+support_url="http://github.com/jbruchon/jdupes"
+distributor="Christian Wünsch"
+distributor_url="http://mc.tms-taps.net"
+thirdparty="yes"
+startable="no"
+silent_install="no"
+silent_upgrade="no"
+silent_uninstall="no"
